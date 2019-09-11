@@ -1,0 +1,43 @@
+{
+    "beginnerChords": [
+        {
+            "chordName": "C",
+            "chordPictureUrl": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNnJnNXhsOGM0MV8xMzJfQ19jaG9yZC5naWYiXV0?sha=e4e52a83c52397ac"
+        },
+        {
+            "chordName": "A",
+            "chordPictureUrl": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNWMwbDdxN2NxaF8xMTJfQV9jaG9yZF9ub3JtYWwuZ2lmIl1d?sha=a533a2ff6bdd8838"
+        },
+        {
+            "chordName": "G",
+            "chordPictureUrl": "https://d1i98lg1qi3tmd.cloudfront.net/images/modules/BCS3/BC-131-GchordStd.gif"
+        },
+        {
+            "chordName": "E",
+            "chordPictureUrl": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvaWM1anV5Y2JvXzExM19FX2Nob3JkLmdpZiJdXQ?sha=d1c293d39613eb21"
+        },
+        {
+            "chordName": "D",
+            "chordPictureUrl": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNmt1aWtjNzBla18xMTFfRF8yMGNob3JkLmdpZiJdXQ?sha=d8638189f6271134"
+        },
+       
+        {
+            "chordName": "Am",
+            "chordPictureUrl": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNTdqZHlud2ViOF8xMjFfQW1fY2hvcmQuZ2lmIl1d?sha=3924e25f53b4a133"
+        },
+        {
+            "chordName": "Dm",
+            "chordPictureUrl": "https://d1i98lg1qi3tmd.cloudfront.net/images/modules/BCS2/BC-123-DmChord.gif"
+        },
+        {
+            "chordName": "Em",
+            "chordPictureUrl": "https://d1i98lg1qi3tmd.cloudfront.net/media/W1siZiIsIjIwMTcvMDgvMzEvMmplNW9pdTJibF8xMjJfRW1fY2hvcmQuZ2lmIl1d?sha=f1f581cdbd8ce72d"
+        }
+    ],
+    "otherChords": [
+         {
+            "chordName": "F",
+            "chordPictureUrl": "https://d1i98lg1qi3tmd.cloudfront.net/images/modules/BCS6/BC-161-F-chord-no6.gif"
+        }
+    ]
+}
